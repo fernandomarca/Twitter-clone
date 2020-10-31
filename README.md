@@ -1,4 +1,4 @@
-<h1>Twitter-clonep</h1>
+<h1>Twitter-clone</h1>
 
 ## 🚀 Tecnologias
 
